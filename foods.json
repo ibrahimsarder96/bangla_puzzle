@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "a",
+    "price": 100,
+    "des": "description",
+    "image": "images/nav/chilli.png"
+  },
+  {
+    "id": 2,
+    "name": "b",
+    "price": 400,
+    "des": "description",
+    "image": "images/nav/chilli.png"
+  },
+  {
+    "id": 3,
+    "name": "c",
+    "price": 600,
+    "des": "description",
+    "image": "images/nav/chilli.png"
+  }
+]

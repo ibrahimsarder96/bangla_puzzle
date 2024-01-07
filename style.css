@@ -1,1 +1,15 @@
-
+.container{
+  transition: transform .5s;
+}
+.listCart{
+  /* inset: 0 -260px 0 auto; */
+  display: none;
+}
+.showCart .listCart{
+  /* inset: 0 0 0 auto; */
+  display: block;
+}
+.foodItem{
+  box-shadow: 2px solid white;
+  background-color: black;
+}
