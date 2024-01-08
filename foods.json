@@ -1,23 +1,23 @@
 [
   {
     "id": 1,
-    "name": "a",
+    "name": "Chicken",
     "price": 100,
-    "des": "description",
-    "image": "images/nav/chilli.png"
+    "des": "Make crowd-pleasing fajitas the easy way with this one-tray recipe that's full of nutrients and low in fat and calories. It makes a speedy midweek meal",
+    "image": "images/food/img1.jpg"
   },
   {
     "id": 2,
-    "name": "b",
-    "price": 400,
-    "des": "description",
-    "image": "images/nav/chilli.png"
+    "name": "Fajitas",
+    "price": 200,
+    "des": "Make crowd-pleasing fajitas the easy way with this one-tray recipe that's full of nutrients and low in fat and calories. It makes a speedy midweek meal",
+    "image": "images/food/img2.jpg"
   },
   {
     "id": 3,
-    "name": "c",
+    "name": "Chicken Masala",
     "price": 600,
-    "des": "description",
-    "image": "images/nav/chilli.png"
+    "des": "Make crowd-pleasing fajitas the easy way with this one-tray recipe that's full of nutrients and low in fat and calories. It makes a speedy midweek meal",
+    "image": "images/food/img3.jpg"
   }
 ]

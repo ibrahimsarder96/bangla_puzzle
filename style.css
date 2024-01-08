@@ -1,8 +1,10 @@
+
 .container{
   transition: transform .5s;
 }
 .listCart{
   /* inset: 0 -260px 0 auto; */
+  margin-top: -870px;
   display: none;
 }
 .showCart .listCart{
